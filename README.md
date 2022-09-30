@@ -10,3 +10,5 @@ FIFA Club News is an android application that is designed in an easy way to show
 + Geneymotion and VM VirtualBox as emulator to run the application
 
 Demo Video Link : https://www.instagram.com/tv/CcmPkLvF4ss/?utm_source=ig_web_copy_link
+
+## **Author: Ahmed Mohie Younis**
